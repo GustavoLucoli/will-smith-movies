@@ -4,6 +4,7 @@ const filmesWillSmith = [
     genero: "Terror / Suspence",
     Data: 2026,
     Papel: "Robert Neville",
+    capa: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCVFo1joUf6EgK4-OscjoiwVAxJDLUIQT6iw&s",
   },
 
   {
@@ -11,6 +12,7 @@ const filmesWillSmith = [
     genero: "Comédia / Ação",
     Data: 2024,
     Papel: "Mike Lowrey",
+    capa: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRodYJcunb6imHMl_sjP1MGfxZkag3l04QIdg&s",
   },
 
   {
@@ -18,6 +20,7 @@ const filmesWillSmith = [
     genero: "Comédia / Ação",
     Data: 2023,
     Papel: "Nick Cooper",
+    capa: "https://cinevisao.pt/wp-content/uploads/2019/09/Will-Smith-confirmado-como-protagonista-de-Brilliance.jpg",
   },
 
   {
@@ -29,28 +32,28 @@ const filmesWillSmith = [
 
   {
     titulo: "Emancipation - Uma história de liberdade",
-    genero: "",
+    genero: "undefined",
     Data: 2022,
     Papel: "Peter",
   },
 
   {
     titulo: "King Richard - Criando campeões",
-    genero: "",
+    genero: "undefined",
     Data: 2021,
     Papel: "Richard Williams",
   },
 
   {
     titulo: "EUA - A luta pela liberdade - Temporada 1",
-    genero: "",
+    genero: "undefined",
     Data: 2021,
     Papel: "Will Smith",
   },
 
   {
     titulo: "Welcome to Earth - Temporada 1",
-    genero: "",
+    genero: "undefined",
     Data: 2021,
     Papel: "Will Smith",
   },
@@ -66,33 +69,33 @@ const filmesWillSmith = [
     titulo: "Projeto Gemini",
     genero: " Ação",
     Data: 2019,
-    Papel: " Henry Brogan / Junior",
+    Papel: "Henry Brogan / Junior",
   },
 
   {
     titulo: "Aladdin",
-    genero: "",
+    genero: "undefined",
     Data: 2019,
     Papel: "Gênio",
   },
 
   {
     titulo: "Dads",
-    Gênero: " ",
+    Gênero: " undefined",
     Data: 2019,
-    Papel: " ",
+    Papel: "undefined",
   },
 
   {
     titulo: "Um espião animal",
     genero: " Comédia",
     Data: 2019,
-    Papel: " Lance Sterling",
+    Papel: "Lance Sterling",
   },
 
   {
     titulo: "Quincy",
-    genero: " ",
+    genero: " undefined",
     Data: 2018,
     Papel: "Will Smith",
   },
@@ -113,7 +116,7 @@ const filmesWillSmith = [
 
   {
     titulo: "Beleza Oculta",
-    genero: " ",
+    genero: "undefined",
     Data: 2016,
     Papel: " Howard Inlet",
   },
@@ -127,14 +130,14 @@ const filmesWillSmith = [
 
   {
     titulo: "Um homem entre gigantes",
-    genero: " ",
+    genero: "undefined",
     Data: 2015,
     Papel: "Dr. Bennet Omalu",
   },
 
   {
     titulo: "Um conto do destino",
-    genero: " ",
+    genero: " undefined",
     Data: 2014,
     Papel: "Juiz",
   },
@@ -169,7 +172,7 @@ const filmesWillSmith = [
 
   {
     titulo: "Sete vidas",
-    genero: "",
+    genero: "undefined",
     Data: 2008,
     Papel: "Ben Thomas",
   },
@@ -183,7 +186,7 @@ const filmesWillSmith = [
 
   {
     titulo: "À procura da felicidade",
-    genero: "",
+    genero: "undefined",
     Data: 2006,
     Papel: "Chridtopher Gardner",
   },
@@ -197,7 +200,7 @@ const filmesWillSmith = [
 
   {
     titulo: "Menina dos olhos",
-    genero: "",
+    genero: "undefined",
     Data: 2004,
     Papel: "Will Smith",
   },
@@ -238,22 +241,22 @@ const filmesWillSmith = [
   },
 
   {
-    Título: "Lendas da vida",
-    genero: "",
+    titulo: "Lendas da vida",
+    genero: "undefined",
     Data: 2000,
     Papel: "Bagger Vance",
   },
 
   {
     titulo: "As loucas aventuras de James West",
-    genero: "",
+    genero: "undefined",
     Data: 1999,
     Papel: "James West",
   },
 
   {
     titulo: "Inimigo do Estado",
-    genero: "",
+    genero: "undefined",
     Data: 1998,
     Papel: "Robert Clayton Dean",
   },
@@ -267,7 +270,7 @@ const filmesWillSmith = [
 
   {
     titulo: "Independence Day",
-    genero: "",
+    genero: "undefined",
     Data: 1996,
     Papel: "Steven 'Eagle' Hiller",
   },
@@ -281,7 +284,7 @@ const filmesWillSmith = [
 
   {
     titulo: "Seis graus de separação",
-    genero: "",
+    genero: "undefined",
     Data: 1993,
     Papel: "Paul",
   },
