@@ -4,6 +4,7 @@ const searchButton = document.getElementById("searchButton");
 const results = document.getElementById("results");
 
 console.log(search.value);
+console.log("teste");
 
 filmesWillSmith.forEach((filme) => {
   const filmeElement = document.createElement("div");
